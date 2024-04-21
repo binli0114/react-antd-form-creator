@@ -7,7 +7,6 @@ export const InputTypes = {
     Checkbox: "Checkbox",
     Radio: "Radio",
     Select: "Select",
-    TextArea: "TextArea",
     File: "File",
     Image: "Image",
     Signature: "Signature",
